@@ -7,6 +7,8 @@
 <!-- ABOUT THE PROJECT -->
 ### About The Project
 Customer Churn happens when customers decide to not continue purchasing products/services from an organization and end their association. Avoiding this event is a very important strategy of the most successful companies, as the costs are related to lose recurring earnings and lose expansion opportunity. Besides, it is much more difficult and expensive to attract a new customer than to retain the one that was already been attracted.
+
+
 This script is for Customer Churn Prediction, comparing the results of Random Forest Classifier, Logistic Regression and Gradient Boosting with different hyperparameter values.
 
 ### Getting Started
